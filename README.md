@@ -6,6 +6,11 @@
 
 **Data:** Junho, 2024.
 
+**Integrantes:**
+
+- Mayara Ramos Damazio
+- Pedro de Almeida Barizon
+
 **Objetivo:** Implementar dois dos principais algoritmos relacionados a grafos: o algoritmo de Kruskal e o de Dijkstra.
 
 ## Estrutura dos Programas
@@ -115,6 +120,11 @@ Os algoritmos de Kruskal e de Dijkstra revelaram-se surpreendentemente fáceis d
 ## English
 
 **Data:** June, 2024.
+
+**Authors:**
+
+- Mayara Ramos Damazio
+- Pedro de Almeida Barizon
 
 **Objective:** Implement two of the main graph-related algorithms: Kruskal's algorithm and Dijkstra's algorithm.
 
